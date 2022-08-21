@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.exe
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.dll
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.dll
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\Owner\Desktop\CLH\First Assessment\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
